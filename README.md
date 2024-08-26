@@ -3,6 +3,7 @@ This is a super random project, I've been working on relearning python and this 
 
 [!NOTE]
 Not on Pypi yet, my email servers are down :sob:
+Legit just found out that if u press something lke up key it crashes so i'll add edge cases for that later
 
 # BetterPass 🔒
 
