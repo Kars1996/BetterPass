@@ -1,6 +1,9 @@
 # Before we start
 This is a super random project, I've been working on relearning python and this was one of the projects I made as I practice python, and I thought I would release it as a pip lib. Sorry if its bad lol I'm still learning, anyway, heres a more "Professional" Readme (Thanks Chatgpt for documentation!)
 
+[!NOTE]
+Not on Pypi yet, my email servers are down :sob:
+
 # BetterPass 🔒
 
 **BetterPass** is a cross-platform Python library for securely handling password input. With this library, you can prompt users for passwords with custom masking characters while supporting both Windows and Unix-based systems. Perfect for adding a secure input feature to your CLI applications! 
