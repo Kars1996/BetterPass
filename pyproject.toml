@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "betterpass"
+version = "0.1.0"
+description = "Cross-platform password input handler with masking"
+authors = [
+    { name="Kars1996", email="k@kars.bio" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.6"
+
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[tool.setuptools.packages.find]
+where = ["betterpass"]
